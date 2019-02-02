@@ -1,0 +1,19 @@
+
+.banner {
+    background-image: url('../../images/matt-botsford-197870-unsplash.jpg') !important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 370px;
+    margin: 0 !important;
+    padding: 0 !important;
+    color: #FFF1D0;
+    font-size: 20px;
+  }
+  
+  @media (min-width: 576px) {
+    .banner {
+      font-size: calc(10px + 14 * (100vw - 320px) / 800);
+    }
+  }

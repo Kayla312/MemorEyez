@@ -1,0 +1,13 @@
+* {
+  font-family: Avenir Next Condensed, monospace;
+}
+
+body {
+    margin: 0;
+    background-color: #EBCCD1;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+  }
