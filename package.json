@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NBCorrigan/rupaul-clicky-game.git"
+    "url": "git+ https://github.com/Kayla312/MemorEyez"
   },
-  "author": "Nick Corrigan",
+  "author": "Kayla Williams",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NBCorrigan/rupaul-clicky-game/issues"
+    "url": "https://github.com/Kayla312/MemorEyez/issues"
   },
-  "homepage": "https://github.com/NBCorrigan/rupaul-clicky-game#readme",
+  "homepage": "https://github.com/Kayla312/MemorEyez#readme",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
