@@ -1,5 +1,5 @@
 {
-  "name": "Memoreyez",
+  "name": "MemorEyez",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/Kayla312/MemorEyez/issues"
   },
-  "homepage": "https://github.com/Kayla312/MemorEyez#readme",
+  "homepage": "https://github.com/Kayla312/MemorEyez",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
